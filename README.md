@@ -26,6 +26,7 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+- [The game's purpose is to aid at guessing a number from a given range. You have a limited amount of guesses and as you guess you get feedback on whther to go higher or lower inn order to guess the secret number.]
 - [ ] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
 
